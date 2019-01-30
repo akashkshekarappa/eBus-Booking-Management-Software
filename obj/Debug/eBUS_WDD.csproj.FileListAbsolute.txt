@@ -1,0 +1,17 @@
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\eBUS_WDD.csprojResolveAssemblyReference.cache
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.adminRequest.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.AdminResponse.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.WebForm5.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.forgotpwd.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.LOGIN.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.WebForm3.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.WebForm4.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\busbook.WebForm2.resources
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\eBUS_WDD.csproj.GenerateResource.Cache
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\eBUS_WDD.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\bin\eBUS_WDD.dll.config
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\bin\eBUS_WDD.dll
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\bin\eBUS_WDD.pdb
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\eBUS_WDD.dll
+C:\Users\akash\source\repos\eBUS_WDD\eBUS_WDD\obj\Debug\eBUS_WDD.pdb
